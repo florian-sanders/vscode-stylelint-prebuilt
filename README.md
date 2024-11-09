@@ -4,7 +4,7 @@ This repo is a fork of [stylelint/vscode-stylelint](https://github.com/stylelint
 All the credits go to the original project since all the code is produced by them.
 
 The goal of this repo is to provide the built & bundled code so it can be used in other text editors that don't implement the VSCode extension API.
-Currently it is used by the a non official Zed editor extension: [zed-stylelint](https://github.com/florian-sanders/zed-stylelint).
+Currently it is used by the a non official WIP Zed editor extension: [zed-stylelint](https://github.com/florian-sanders/zed-stylelint).
 
 Basically this repo contains the whole source code of the VSCode extension + the built & bundled code based on this source code.
 
